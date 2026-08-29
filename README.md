@@ -118,5 +118,7 @@ Revenue
 
 यह एक single calculator website से बेहतर है, क्योंकि एक ही domain पर बहुत सारे related pages बना सकते हो और अलग-अलग search queries target कर सकते हो।
 
-अगर तुम चाहो तो मैं इसका पूरा website plan बना सकता हूँ—नाम → pages → homepage design → calculators → database की जरूरत है या नहीं → ads → affiliate earning → free hosting → domain तक, step-by-step।
+अगर तुम चाहो तो मैं इसका पूरा website plan बना सकता हूँ—नाम → pages → homepage design → calculators → database की जरूरत है या नहीं → ads → affiliate earning → free hosting → domain तक, step-by-step। N/ 
+<img width="196" height="772" alt="image" src="https://github.com/user-attachments/assets/bf0af8c6-309f-4367-9989-dcbde9585563" />
+
 
