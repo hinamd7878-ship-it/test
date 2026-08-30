@@ -1,4 +1,4 @@
-https://paperbacks-addressed-civil-polo.trycloudflare.com n/ ~/downloads/YOUTUBE-VIDEO-AND-AUDIO-DOWNLODER $ pkg serch cloudflared
+https://star-privacy-gig-cyber.trycloudflare.com n/ https://paperbacks-addressed-civil-polo.trycloudflare.com n/ ~/downloads/YOUTUBE-VIDEO-AND-AUDIO-DOWNLODER $ pkg serch cloudflared
 Hit:1 https://termux.net stable InRelease
 All packages are up to date.
 cloudflared/stable,now 2026.6.1 aarch64 [installed]
