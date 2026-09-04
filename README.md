@@ -1,4 +1,9 @@
-~/.../downloads/1 $ python -m yt_dlp -f "bestvideo[height<=360]+bestaudio/best[height<=360]" -g "https://youtu.be/5B0vC328DHY"
+~/.../downloads/1 $ python -m yt_dlp -f "https://youtu.be/sJfO056uChI?si=BeWwzacm1k355MwZ"
+
+Usage: __main__.py [OPTIONS] URL [URL...]
+
+__main__.py: error: You must provide at least one URL.
+Type yt-dlp --help to see a list of all options. n/ ~/.../downloads/1 $ python -m yt_dlp -f "bestvideo[height<=360]+bestaudio/best[height<=360]" -g "https://youtu.be/5B0vC328DHY"
 WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 ERROR: [youtube] 5B0vC328DHY: This video is unavailable
 ~/.../downloads/1 $ n/ https://another-shown-funeral-subjects.trycloudflare.com n/ https://respondents-precisely-passive-twist.trycloudflare.com/ n/ https://downloaded-penalty-norman-studio.trycloudflare.com/ n/ https://www.instagram.com/reel/DckptLLKFK8/?igsi=M2hoam40eWhtYmpo n/ https://aka-stockings-lesser-media.trycloudflare.com/ N/ Haan 👍 Agar tum Finance/Insurance niche mein khud ki website bana kar earning karna chahte ho, to main in options ko 3 levels mein rakhoonga.
