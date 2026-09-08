@@ -1,4 +1,4 @@
-https://www.youtube.com/live/gwPLTRNr6ZQ?si=7ZDJv1ysrinW-40H n/ ~/.../downloads/1 $ python -m yt_dlp -F "https://youtu.be/sJfO056uChI?si=BeWwzacm1k355MwZ"
+ffmpeg -stream_loop -1 -re -i loop.mp4 -stream_loop -1 -re -i music.mp3 -map 0:v -map 1:a -c:v libx264 -preset ultrafast -tune zerolatency -b:v 800k -maxrate 900k -bufsize 1800k -c:a aac -b:a 64k -f flv "rtmp://a.rtmp.youtube.com/live2/3pjd-fdd8-30vu-jvts-17cp" n/ https://www.youtube.com/live/gwPLTRNr6ZQ?si=7ZDJv1ysrinW-40H n/ ~/.../downloads/1 $ python -m yt_dlp -F "https://youtu.be/sJfO056uChI?si=BeWwzacm1k355MwZ"
 [youtube] Extracting URL: https://youtu.be/sJfO056uChI?si=BeWwzacm1k355MwZ
 [youtube] sJfO056uChI: Downloading webpage
 WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
