@@ -1,4 +1,4 @@
-3pjd-fdd8-30vu-jvts-17cp
+rtmp://a.rtmp.youtube.com/live2/vbzx-v2dz-8cjr-2514-5f5e
 n /  n/ ~/.../downloads/1 $ python -m yt_dlp -F "https://youtu.be/sJfO056uChI?si=BeWwzacm1k355MwZ"
 [youtube] Extracting URL: https://youtu.be/sJfO056uChI?si=BeWwzacm1k355MwZ
 [youtube] sJfO056uChI: Downloading webpage
