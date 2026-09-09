@@ -1,4 +1,4 @@
-rtmp://a.rtmp.youtube.com/live2/vbzx-v2dz-8cjr-2514-5f5e
+ffmpeg -stream_loop -1 -re -i loop.mp4 -map 0:v -map 0:a -c:v libx264 -preset ultrafast -tune zerolatency -b:v 800k -maxrate 900k -bufsize 1800k -c:a aac -b:a 64k -f flv "rtmp://a.rtmp.youtube.com/live2/vbzx-v2dz-8cjr-2514-5f5e"
 n /  n/ ~/.../downloads/1 $ python -m yt_dlp -F "https://youtu.be/sJfO056uChI?si=BeWwzacm1k355MwZ"
 [youtube] Extracting URL: https://youtu.be/sJfO056uChI?si=BeWwzacm1k355MwZ
 [youtube] sJfO056uChI: Downloading webpage
