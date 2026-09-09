@@ -1,4 +1,4 @@
-ffmpeg -stream_loop -1 -re -i loop.mp4 -stream_loop -1 -re -i music.mp3 -map 0:v:0 -map 1:a:0 -c:v libx264 -preset ultrafast -b:v 800k -maxrate 900k -bufsize 1800k -c:a aac -b:a 128k -ar 48000 -f flv "rtmp://a.rtmp.youtube.com/live2/pu2h-mr9s-8vqp-zt0k-91sj"
+
 [youtube] Extracting URL: https://youtu.be/sJfO056uChI?si=BeWwzacm1k355MwZ
 [youtube] sJfO056uChI: Downloading webpage
 WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
